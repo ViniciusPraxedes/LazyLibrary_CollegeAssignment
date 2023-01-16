@@ -3,7 +3,6 @@ package org.example;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;
-import java.util.Scanner;
 
 @Component
 public class BookList {
